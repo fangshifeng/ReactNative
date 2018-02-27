@@ -2,10 +2,11 @@
 **|** 版权声明：本文为博主原创文章，未经博主允许不得转载。
 
 Redux框架篇系列文章总目录：
-[《ReactNative实战讲义》Redux框架篇---（一）基础知识](http://blog.csdn.net/fsf_snail/article/details/79082351)
-[《ReactNative实战讲义》Redux框架篇---（二）基础应用](http://blog.csdn.net/fsf_snail/article/details/79156288)
-[《ReactNative实战讲义》Redux框架篇---（三）高级知识](http://blog.csdn.net/fsf_snail/article/details/79156393)
-[《ReactNative实战讲义》Redux框架篇---（四）高级应用](http://blog.csdn.net/fsf_snail/article/details/79162619)
+
+* [《ReactNative实战讲义》Redux框架篇---（一）基础知识](http://blog.csdn.net/fsf_snail/article/details/79082351)
+* [《ReactNative实战讲义》Redux框架篇---（二）基础应用](http://blog.csdn.net/fsf_snail/article/details/79156288)
+* [《ReactNative实战讲义》Redux框架篇---（三）高级知识](http://blog.csdn.net/fsf_snail/article/details/79156393)
+* [《ReactNative实战讲义》Redux框架篇---（四）高级应用](http://blog.csdn.net/fsf_snail/article/details/79162619)
 
 ### 一、简介
 Redux本身是同步的Action，但是实战项目中同步是不能满足我们的需求的，反而我们大部分的Action都是异步的，例如：API请求。在介绍Redux的异步用法前我们先了解一下异步和同步的区别。

@@ -2,10 +2,11 @@
 **|** 版权声明：本文为博主原创文章，未经博主允许不得转载。
 
 Redux框架篇系列文章总目录：
-[《ReactNative实战讲义》Redux框架篇---（一）基础知识](http://blog.csdn.net/fsf_snail/article/details/79082351)
-[《ReactNative实战讲义》Redux框架篇---（二）基础应用](http://blog.csdn.net/fsf_snail/article/details/79156288)
-[《ReactNative实战讲义》Redux框架篇---（三）高级知识](http://blog.csdn.net/fsf_snail/article/details/79156393)
-[《ReactNative实战讲义》Redux框架篇---（四）高级应用](http://blog.csdn.net/fsf_snail/article/details/79162619)
+
+* [《ReactNative实战讲义》Redux框架篇---（一）基础知识](http://blog.csdn.net/fsf_snail/article/details/79082351)
+* [《ReactNative实战讲义》Redux框架篇---（二）基础应用](http://blog.csdn.net/fsf_snail/article/details/79156288)
+* [《ReactNative实战讲义》Redux框架篇---（三）高级知识](http://blog.csdn.net/fsf_snail/article/details/79156393)
+* [《ReactNative实战讲义》Redux框架篇---（四）高级应用](http://blog.csdn.net/fsf_snail/article/details/79162619)
 
 ### 一、简介
 在上一篇文章中，我们学习了Redux框架的基础概念，对于Redux的核心理念，设计理念，工作流程，基本用法都有了一个基础的认识和理解。那么这篇文章通过一个简单的实例带大家更深入的理解体会一下Redux框架的使用方法和思想。

@@ -2,10 +2,11 @@
 **|** 版权声明：本文为博主原创文章，未经博主允许不得转载。
 
 Redux框架篇系列文章总目录：
-[《ReactNative实战讲义》Redux框架篇---（一）基础知识](http://blog.csdn.net/fsf_snail/article/details/79082351)
-[《ReactNative实战讲义》Redux框架篇---（二）基础应用](http://blog.csdn.net/fsf_snail/article/details/79156288)
-[《ReactNative实战讲义》Redux框架篇---（三）高级知识](http://blog.csdn.net/fsf_snail/article/details/79156393)
-[《ReactNative实战讲义》Redux框架篇---（四）高级应用](http://blog.csdn.net/fsf_snail/article/details/79162619)
+
+* [《ReactNative实战讲义》Redux框架篇---（一）基础知识](http://blog.csdn.net/fsf_snail/article/details/79082351)
+* [《ReactNative实战讲义》Redux框架篇---（二）基础应用](http://blog.csdn.net/fsf_snail/article/details/79156288)
+* [《ReactNative实战讲义》Redux框架篇---（三）高级知识](http://blog.csdn.net/fsf_snail/article/details/79156393)
+* [《ReactNative实战讲义》Redux框架篇---（四）高级应用](http://blog.csdn.net/fsf_snail/article/details/79162619)
 
 ### 一、简介
 上篇文章中我们对于redux的高级知识进行了讲解，对部分代码的改造进行了展示。这篇文章我们通过实战中一个完整的功能模块来讲解一下redux在实际项目中的应用标准和具体的方式。下面就让我们通过实战中最常见的获取文章列表功能来一起看看，在这个简单而又实际的功能模块中redux是如何一步一步的实现这个简单的功能的。

@@ -1,5 +1,5 @@
 # 《ReactNative实战讲义》框架篇---08.react-native-router-flux页面跳转与传值
-## 一、内容简介
+#### 一、内容简介
 实现以下功能：
 1. 正向跳转
 2. 正向跳转并传值
@@ -8,8 +8,8 @@
 5. 指定页面跳转
 6. 指定页面跳转并传值
 
-## 二、代码实现
-### 1、正向跳转
+#### 二、代码实现
+##### 1、正向跳转
 假设情景：从Home页跳转到Profile页面，Profile场景的key值为profile
 
 * 不带参数 `Actions.profile`
@@ -25,7 +25,7 @@ eg：
 `onPress={() => {Actions.proflie({'key':value})}} // 带参数的最简写法，传递的参数必须是Object类型，每个参数建议使用键值对方式传递`
 `this.props.key // 接收参数`
 
-### 2、反向跳转
+##### 2、反向跳转
 假设情景：从Profile页返回Home页面
 
 * 返回上一页面，不带参数`Actions.pop()`

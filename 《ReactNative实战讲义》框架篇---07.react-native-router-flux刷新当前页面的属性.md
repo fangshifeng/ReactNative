@@ -1,7 +1,7 @@
 # 《ReactNative实战讲义》框架篇---07.react-native-router-flux刷新当前页面的属性
-## 一、内容简介
+#### 一、内容简介
 给NavigationBar左上角或右上角添加点击事件
-## 二、代码实现
+#### 二、代码实现
 1. 使用到的框架属性
 
 * leftTitle：左上角按钮的名字
