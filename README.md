@@ -45,6 +45,8 @@
 * [《ReactNative系列讲义》高级篇---01.react-native-vxgplayer](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---01.react-native-vxgplayer.md)
 * [《ReactNative系列讲义》高级篇---02.制作npm插件并发布](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---02.%E5%88%B6%E4%BD%9Cnpm%E6%8F%92%E4%BB%B6%E5%B9%B6%E5%8F%91%E5%B8%83.md)
 * [《ReactNative系列讲义》高级篇---03.react-native-vxgplayer ReadMe](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---03.react-native-vxgplayer%20ReadMe.md)
+* [《ReactNative系列讲义》高级篇---04.JavaScript与Native之间的通信（一）](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---04.JavaScript%E4%B8%8ENative%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%EF%BC%88%E4%B8%80%EF%BC%89.md)
+* [《ReactNative系列讲义》高级篇---05.JavaScript与Native之间的通信（二）](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---05.JavaScript%E4%B8%8ENative%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%EF%BC%88%E4%BA%8C%EF%BC%89.md)
 * 玩命更新中...
 
 *** 
