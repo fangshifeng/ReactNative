@@ -1,4 +1,4 @@
-#《ReactNative系列讲义》基础篇---02.Components and Props
+# 《ReactNative系列讲义》基础篇---02.Components and Props
 
 **|** 版权声明：本文为博主原创文章，未经博主允许不得转载。
 
