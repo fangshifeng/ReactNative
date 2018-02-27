@@ -1,6 +1,6 @@
 # React Native
 #### 作者简介
-> 方世峰，Android&ReactNative开发工程师。大学时期曾自学Web开发，自学PHP脚本语言，有一年的网站二次开发经验。后转投Android阵营，从幕后到前台，在OA系统移动客户端领域短暂的停留之后，至此一直沉浸在大巴火车出行WIFI领域。路漫漫其修远兮，无论未来在哪个互联网领域里挣扎，学习之心不死。如若有想交流的冲动，无论哪个方面，可到Github提交Issue或者发邮件至fsf_fangshifeng@126.com，更欢迎来我的个人博客[蜗牛慢慢跑](fangshifeng.com)留言。
+> 方世峰，Android&ReactNative开发工程师。大学时期曾自学Web开发，自学PHP脚本语言，有一年的网站二次开发经验。后转投Android阵营，从幕后到前台，在OA系统移动客户端领域短暂的停留之后，至此一直沉浸在大巴火车出行WIFI领域。路漫漫其修远兮，无论未来在哪个互联网领域里挣扎，学习之心不死。如若有想交流的冲动，无论哪个方面，可到Github提交Issue或者发邮件至fsf_fangshifeng@126.com，更欢迎来我的个人博客[蜗牛慢慢跑](http://fangshifeng.com/)留言。
 
 文章持续玩命更新中...
 
@@ -54,8 +54,8 @@
 
 * [《ReactNative实战讲义》框架篇---01.Flux框架基础](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---01.Flux%E6%A1%86%E6%9E%B6%E5%9F%BA%E7%A1%80.md)
 * [《ReactNative实战讲义》框架篇---02.Flux框架应用](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---02.Flux%E6%A1%86%E6%9E%B6%E5%BA%94%E7%94%A8.md)
-* [《ReactNative实战讲义》框架篇---03.Redux基础知识](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---03.%20Redux%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
-* [《ReactNative实战讲义》框架篇---04.Redux基础应用](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---04.%20Redux%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8.md)
+* [《ReactNative实战讲义》框架篇---03.Redux基础知识](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---03.Redux%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+* [《ReactNative实战讲义》框架篇---04.Redux基础应用](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---04.Redux%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8.md)
 * [《ReactNative实战讲义》框架篇---05.Redux高级知识](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---05.Redux%E9%AB%98%E7%BA%A7%E7%9F%A5%E8%AF%86.md)
 * [《ReactNative实战讲义》框架篇---06.Redux高级应用](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---06.Redux%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8.md)
 * [《ReactNative实战讲义》框架篇---07.react-native-router-flux刷新当前页面的属性](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E5%AE%9E%E6%88%98%E8%AE%B2%E4%B9%89%E3%80%8B%E6%A1%86%E6%9E%B6%E7%AF%87---07.react-native-router-flux%E5%88%B7%E6%96%B0%E5%BD%93%E5%89%8D%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%B1%9E%E6%80%A7.md) 
