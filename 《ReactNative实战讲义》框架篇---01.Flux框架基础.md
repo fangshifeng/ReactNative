@@ -1,4 +1,4 @@
-# 《ReactNative实战讲义》Flux框架篇---01.基础
+# 《ReactNative实战讲义》框架篇---01.Flux框架基础
 **|** 版权声明：本文为博主原创文章，未经博主允许不得转载。
 #### 一、基础概念介绍
 ##### 1.register(function callback):string
