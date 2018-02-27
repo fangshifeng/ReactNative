@@ -1,4 +1,4 @@
-# 《ReactNative系列讲义》基础篇---State and Lifecycle
+# 《ReactNative系列讲义》基础篇---03.State and Lifecycle
 **|** 版权声明：本文为博主原创文章，未经博主允许不得转载。
 ####一、简介
 上篇文章中我们一起学习了Components and Props，知道了ReactNative中两个基本概念：组件和属性，并且知道了两者之间的关系和使用方法与特性。这篇文章我们一起来认识一下ReactNative中的第二种数据类型：State。

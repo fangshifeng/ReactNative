@@ -1,4 +1,4 @@
-# 《ReactNative系列讲义》基础篇---Handling Events
+# 《ReactNative系列讲义》基础篇---04.Handling Events
 **|** 版权声明：本文为博主原创文章，未经博主允许不得转载。
 ####一、简介
 学完了数据，接下来我们学学方法的创建与调用，以及触发方法的载体。
