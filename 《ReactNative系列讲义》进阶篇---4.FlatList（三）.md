@@ -1,14 +1,14 @@
 # 《ReactNative系列讲义》进阶篇---4.FlatList（三）
 **|** 版权声明：本文为博主原创文章，未经博主允许不得转载。
-####一、简介
+#### 一、简介
 截止到上篇文章，关于FlatList无论是简单的还是高级的属性用法都已经介绍完毕，今天我们一起来看看FlatList更高级的玩法，相关方法的调用。
-####二、基础知识
+#### 二、基础知识
 * 获取FlatList的引用
 * scrollToEnd：直接跳转到内容的底部，建议设置getItemLayout属性，不然会出现卡顿
 * scrollToIndex：跳转到指定索引的行。属性：viewPosition: 指定选定行显示的位置，0代表top，0.5代表middle，1代表bottom；index: 输入的索引值；如果不设置getItemLayout属性，无法到达不可见区域
 * 以上两个方法在使用时，需设置getItemLayout属性
 
-####三、应用
+#### 三、应用
 * 新增功能
 
 ```
