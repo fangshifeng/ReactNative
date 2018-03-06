@@ -1,6 +1,6 @@
 # React Native
-#### 作者简介   
-> 方世峰，Android&ReactNative开发工程师。大学时期曾自学Web开发，自学PHP脚本语言，有一年的网站二次开发经验。后转投Android阵营，从幕后到前台，在OA系统移动客户端领域短暂的停留之后，至此一直沉浸在大巴火车出行WIFI领域。路漫漫其修远兮，无论未来在哪个互联网领域里挣扎，学习之心不死。如若有想交流的冲动，无论哪个方面，可到Github提交Issue或者发邮件至fsf_fangshifeng@126.com，更欢迎来我的个人博客[蜗牛慢慢跑](http://fangshifeng.com/)留言，等你呦~
+#### 作者简介
+> 方世峰，Android&ReactNative开发工程师。大学时期曾自学Web开发，自学PHP脚本语言，有一年的网站二次开发经验。后转投Android阵营，从幕后到前台，在OA系统移动客户端领域短暂的停留之后，至此一直沉浸在大巴火车出行WIFI领域。路漫漫其修远兮，无论未来在哪个互联网领域里挣扎，学习之心不死。如若有想交流的冲动，无论哪个方面，可到Github提交Issue或者发邮件至fsf_fangshifeng@126.com，更欢迎来我的个人博客[蜗牛慢慢跑](http://fangshifeng.com/)留言。
 
 文章持续玩命更新中...
 
@@ -47,8 +47,12 @@
 * [《ReactNative系列讲义》高级篇---03.react-native-vxgplayer ReadMe](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---03.react-native-vxgplayer%20ReadMe.md)
 * [《ReactNative系列讲义》高级篇---04.JavaScript与Native之间的通信（一）](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---04.JavaScript%E4%B8%8ENative%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%EF%BC%88%E4%B8%80%EF%BC%89.md)
 * [《ReactNative系列讲义》高级篇---05.JavaScript与Native之间的通信（二）](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---05.JavaScript%E4%B8%8ENative%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%EF%BC%88%E4%BA%8C%EF%BC%89.md)
+* [《ReactNative系列讲义》高级篇---06.热更新思路讲解](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---06.%E7%83%AD%E6%9B%B4%E6%96%B0%E6%80%9D%E8%B7%AF%E8%AE%B2%E8%A7%A3.md)
+* [《ReactNative系列讲义》高级篇---07.热更新全量更新主体代码实现](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---07.%E7%83%AD%E6%9B%B4%E6%96%B0%E5%85%A8%E9%87%8F%E6%9B%B4%E6%96%B0%E4%B8%BB%E4%BD%93%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0.md)
+* [《ReactNative系列讲义》高级篇---08.热更新分支逻辑实现](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---08.%E7%83%AD%E6%9B%B4%E6%96%B0%E5%88%86%E6%94%AF%E9%80%BB%E8%BE%91%E5%AE%9E%E7%8E%B0.md)
+* [《ReactNative系列讲义》高级篇---09.热更新差量更新](https://github.com/fangshifeng/ReactNative/blob/master/%E3%80%8AReactNative%E7%B3%BB%E5%88%97%E8%AE%B2%E4%B9%89%E3%80%8B%E9%AB%98%E7%BA%A7%E7%AF%87---09.%E7%83%AD%E6%9B%B4%E6%96%B0%E5%B7%AE%E9%87%8F%E6%9B%B4%E6%96%B0.md)
 * 玩命更新中...
-
+    
 *** 
 
 #### ReactNative框架篇
